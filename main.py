@@ -1,4 +1,4 @@
-# Warsztat: Gra w zgadywanie liczb 3
+<# Warsztat: Gra w zgadywanie liczb 3
 # Zaimplementuj odwróconą grę w zgadywanie liczb w aplikacji webowej 
 # przy pomocy frameworka Flask. 
 # Użytkownik dostaje do dyspozycji formularz z trzema guzikami: 
